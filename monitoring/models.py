@@ -2,6 +2,7 @@
 from __future__ import unicode_literals
 
 from django.core.validators import MinValueValidator
+from django.core.validators import EmailValidator
 from django.db import models
 
 
